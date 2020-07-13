@@ -27,7 +27,6 @@ I've been working as a QA Automation Engineer at Vestwell for ~1.5 years. Curren
 ## How to reach me:
 [Linkedin](https://www.linkedin.com/in/claytonhoweth/)<br>
 [Instagram](https://www.instagram.com/claytonhoweth/)<br>
-Resume - Coming Soon!
 
 ## Fun facts:
 * I have a 2-year-old miniature dachshund named Murphy
