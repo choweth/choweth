@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 -->
 
 # Hello! My Name is Clayton Howeth
-I've been working as a QA Automation Engineer at Vestwell for 2 years. Currently living in NYC. Graduated with a B.S. in Computer Science, and a specialty in Computer Engineering, at Colorado School of Mines in 2018.
+I've been working as a Sr. QA Automation Engineer at Vestwell for 2.5 years. Currently living in NYC. Graduated with a B.S. in Computer Science, and a specialty in Computer Engineering, from Colorado School of Mines in 2018.
 
 ## Skills:
 * Automated Testing
 * Experience in Python, C++, Java
 
 ## I'm working on:
+* Database sanitation for obfuscating PII
 * Testing frameworks
 * 2-player [Tak](https://en.wikipedia.org/wiki/Tak_(game)) 
 
@@ -29,5 +30,5 @@ I've been working as a QA Automation Engineer at Vestwell for 2 years. Currently
 [Instagram](https://www.instagram.com/claytonhoweth/)<br>
 
 ## Fun facts:
-* I have a 2-year-old miniature dachshund named Murphy
+* I have two miniature dachshunds: Murphy and Shiner (like the bock)🍺 
 * I enjoy playing ultimate frisbee
