@@ -30,5 +30,7 @@ I've been working as a Sr. QA Automation Engineer at Vestwell for 2.5 years. Cur
 [Instagram](https://www.instagram.com/claytonhoweth/)<br>
 
 ## Fun facts:
-* I have two miniature dachshunds: Murphy and Shiner (like the bock)🍺 
+* I have two miniature dachshunds: [Murphy and Shiner](https://instagram.com/murphy_and_shiner_eastvillage) (like the bock)🍺 
 * I enjoy playing ultimate frisbee
+* Catch me [streaming](https://www.twitch.tv/freshproduceow)!
+* What I'm [reading](https://www.goodreads.com/freshproduce)
