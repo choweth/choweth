@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello! My Name is Clayton Howeth
-I've been working as a Sr. QA Automation Engineer at Vestwell for 2.5 years. Currently living in NYC. Graduated with a B.S. in Computer Science, and a specialty in Computer Engineering, from Colorado School of Mines in 2018.
+I've been working at Vestwell for 3.5 years with my current title being Manager, SDET/QA Automation. Currently living in NYC. Graduated with a B.S. in Computer Science, and a specialty in Computer Engineering, from Colorado School of Mines in 2018.
 
 ## Skills:
 * Automated Testing
@@ -29,7 +29,7 @@ I've been working as a Sr. QA Automation Engineer at Vestwell for 2.5 years. Cur
 [Linkedin](https://www.linkedin.com/in/claytonhoweth/)<br>
 [Instagram](https://www.instagram.com/claytonhoweth/)<br>
 
-## Fun facts:
+## Other Stuff:
 * I have two miniature dachshunds: [Murphy and Shiner](https://instagram.com/murphy_and_shiner_eastvillage) (like the bock)🍺 
 * I enjoy playing ultimate frisbee
 * Catch me [streaming](https://www.twitch.tv/freshproduceow)!
