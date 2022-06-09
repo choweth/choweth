@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello! My Name is Clayton Howeth
-I've been working at Vestwell for 3.5 years with my current title being Manager, SDET/QA Automation. Currently living in NYC. Graduated with a B.S. in Computer Science, and a specialty in Computer Engineering, from Colorado School of Mines in 2018.
+I've been working at Vestwell for 3.5 years with my current title being Manager, SDET/QA Automation. Currently living in NYC. I graduated with a B.S. in Computer Science and a specialty in Computer Engineering from Colorado School of Mines in 2018.
 
 ## Skills:
 * Automated Testing
