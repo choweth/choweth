@@ -14,23 +14,26 @@ Here are some ideas to get you started:
 -->
 
 # Hello! My Name is Clayton Howeth
-I've been working at Vestwell for 3.5 years with my current title being Manager, SDET/QA Automation. Currently living in NYC. I graduated with a B.S. in Computer Science and a specialty in Computer Engineering from Colorado School of Mines in 2018.
+I've been working at Vestwell for 5.5 years with my current title being Sr Manager, SDET/QA Automation. Currently living in the Dallas, TX area. I graduated with a B.S. in Computer Science and a specialty in Computer Engineering from Colorado School of Mines in 2018.
 
 ## Skills:
 * Automated Testing
-* Experience in Python, C++, Java
+* Primary experience is in Python, with some dated experience in C++ and Java
+* CI/CD processes using Jenkins, scripting, and more
 
 ## I'm working on:
 * Database sanitation for obfuscating PII
-* Testing frameworks
-* 2-player [Tak](https://en.wikipedia.org/wiki/Tak_(game)) 
+* Test frameworks
+* CI/CD infrastructure and improvements
+* Learning Godot
 
 ## How to reach me:
 [Linkedin](https://www.linkedin.com/in/claytonhoweth/)<br>
 [Instagram](https://www.instagram.com/claytonhoweth/)<br>
 
 ## Other Stuff:
-* I have two miniature dachshunds: [Murphy and Shiner](https://instagram.com/murphy_and_shiner_eastvillage) (like the bock)🍺 
+* I have two miniature dachshunds: [Murphy and Shiner](https://instagram.com/murphy_and_shiner) (like the bock 🍺) 
 * I enjoy playing ultimate frisbee
-* Catch me [streaming](https://www.twitch.tv/freshproduceow)!
+<!-- * Catch me [streaming](https://www.twitch.tv/freshproduceow)! -->
 * What I'm [reading](https://www.goodreads.com/freshproduce)
+* Let's play some [Tak](https://en.wikipedia.org/wiki/Tak_(game))
