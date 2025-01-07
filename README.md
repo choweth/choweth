@@ -31,7 +31,7 @@ I graduated with a B.S. in Computer Science and a specialty in Computer Engineer
 ## How to reach me:
 [Linkedin](https://www.linkedin.com/in/claytonhoweth/)<br>
 [Instagram](https://www.instagram.com/claytonhoweth/)<br>
-[Ko=fi](https://ko-fi.com/claytonhoweth)<br>
+<!-- [Ko-fi](https://ko-fi.com/claytonhoweth)<br> -->
 
 ## Other Stuff:
 * I have two miniature dachshunds: [Murphy and Shiner](https://instagram.com/murphy_and_shiner) (like the bock 🍺) 
