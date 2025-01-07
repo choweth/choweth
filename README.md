@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello! My Name is Clayton Howeth
-I've been working at Vestwell for 5.5 years with my current title being Sr Manager, SDET/QA Automation. Currently living in the Dallas, TX area. I graduated with a B.S. in Computer Science and a specialty in Computer Engineering from Colorado School of Mines in 2018.
+I've been working at Vestwell for 6 years with my current title being Sr Manager, Developer Experience (DevEx). Currently living in the Dallas, TX area. I graduated with a B.S. in Computer Science and a specialty in Computer Engineering from Colorado School of Mines in 2018.
 
 ## Skills:
 * Automated Testing
@@ -33,7 +33,7 @@ I've been working at Vestwell for 5.5 years with my current title being Sr Manag
 
 ## Other Stuff:
 * I have two miniature dachshunds: [Murphy and Shiner](https://instagram.com/murphy_and_shiner) (like the bock 🍺) 
-* I enjoy playing ultimate frisbee
+* I enjoy playing ultimate frisbee and have recently started playing disc golf 🥏
 <!-- * Catch me [streaming](https://www.twitch.tv/freshproduceow)! -->
-* What I'm [reading](https://www.goodreads.com/freshproduce)
+* What I'm [reading](https://www.goodreads.com/freshproduce) 📚
 * Let's play some [Tak](https://en.wikipedia.org/wiki/Tak_(game))
